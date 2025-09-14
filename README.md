@@ -28,12 +28,11 @@ This analysis helps the business understand customer behavior, sales performance
 - Applied slicers (Order Date, Delivery Date, Occasion) for dynamic filtering.
 
 ## Dashboard
-<a href="https://github.com/IrshitaSapru25/FnP-Sales-Analysis/blob/main/fnp%20dashboard%20ss.png">Dataset</a>
 The dashboard provides:
 - Key performance indicators (total revenue, delivery time, customer spending).
 - Visualizations for monthly sales, top products, cities, and occasions.
 - Interactive filters for flexible analysis.
-
+- <a href="https://github.com/IrshitaSapru25/FnP-Sales-Analysis/blob/main/fnp%20dashboard%20ss.png">DashboardInteraction</a>
 ## Project Insights
 - Specific occasions like Valentine’s Day and Anniversaries generated the highest revenue.
 -Cakes and soft toys were among the most popular categories.
