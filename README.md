@@ -4,6 +4,7 @@ The objective of this project is to analyze sales data of FNP (Ferns N Petals) a
 This analysis helps the business understand customer behavior, sales performance, product demand, and seasonal trends. The insights can be used to make data-driven decisions and increase sales in upcoming years.
 
 ## Dataset Used
+<a href="https://github.com/IrshitaSapru25/FnP-Sales-Analysis/blob/main/customers.csv">Dataset</a>
 
 ## Questions (KPIs) Addressed
 - Total Revenue – Identify the overall revenue.
